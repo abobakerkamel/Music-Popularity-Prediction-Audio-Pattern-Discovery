@@ -1,8 +1,8 @@
 
 # 👥 Team Members
 
-* **abobaker kamel** ([https://github.com/abobakerkamel](https://github.com/abobakerkamel))
-* **ahmed salah hussein** ([https://github.com/ahmedsalah1461966-alt](https://github.com/ahmedsalah1461966-alt))
+* **Abubaker Kamel** ([https://github.com/abobakerkamel](https://github.com/abobakerkamel))
+* **Ahmed Salah Hussein** ([https://github.com/ahmedsalah1461966-alt](https://github.com/ahmedsalah1461966-alt))
 
 ---
 
